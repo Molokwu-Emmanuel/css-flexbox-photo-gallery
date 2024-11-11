@@ -19,3 +19,6 @@ header{
     color: #fff;
     border-bottom: 4px solid #fdb347;
 }
+.gallery {
+    display: flex;
+}
